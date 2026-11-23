@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo así."
+title: "EndocrinIA"
+abstract: "Sistema de aprendizaje adaptativo para Patología Médico Quirúrgica del Sistema Endocrino y de la Nutrición (UMH 1957): laboratorio, cálculo clínico, simulación, imagen y casos, en un solo HTML (es/en/pt)."
+type: software
+version: 1.0.0
+date-released: 2026-11-23
+license: MIT
+url: "https://fborrasumh.github.io/endocrinia/"
+repository-code: "https://github.com/fborrasumh/endocrinia"
+authors:
+  - given-names: "Fernando"
+    family-names: "Borrás Rocher"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+  - given-names: "Antonio F."
+    family-names: "Compañ Rosique"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-8166-396X"
+keywords:
+  - endocrinología
+  - nutrición
+  - educación médica
+  - aprendizaje adaptativo
+  - práctica de recuperación
+  - simulación
